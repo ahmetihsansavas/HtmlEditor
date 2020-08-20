@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HtmlEditor/static/css/main.33e516bd.chunk.css",
+    "main.js": "/HtmlEditor/static/js/main.b36687b8.chunk.js",
+    "main.js.map": "/HtmlEditor/static/js/main.b36687b8.chunk.js.map",
+    "runtime-main.js": "/HtmlEditor/static/js/runtime-main.480eb97e.js",
+    "runtime-main.js.map": "/HtmlEditor/static/js/runtime-main.480eb97e.js.map",
+    "static/css/2.260df227.chunk.css": "/HtmlEditor/static/css/2.260df227.chunk.css",
+    "static/js/2.21799844.chunk.js": "/HtmlEditor/static/js/2.21799844.chunk.js",
+    "static/js/2.21799844.chunk.js.map": "/HtmlEditor/static/js/2.21799844.chunk.js.map",
+    "index.html": "/HtmlEditor/index.html",
+    "precache-manifest.90a85e7d29cb0f2028d43ceb9a29cf9b.js": "/HtmlEditor/precache-manifest.90a85e7d29cb0f2028d43ceb9a29cf9b.js",
+    "service-worker.js": "/HtmlEditor/service-worker.js",
+    "static/css/2.260df227.chunk.css.map": "/HtmlEditor/static/css/2.260df227.chunk.css.map",
+    "static/css/main.33e516bd.chunk.css.map": "/HtmlEditor/static/css/main.33e516bd.chunk.css.map",
+    "static/js/2.21799844.chunk.js.LICENSE.txt": "/HtmlEditor/static/js/2.21799844.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HtmlEditor/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.480eb97e.js",
+    "static/css/2.260df227.chunk.css",
+    "static/js/2.21799844.chunk.js",
+    "static/css/main.33e516bd.chunk.css",
+    "static/js/main.b36687b8.chunk.js"
+  ]
+}
